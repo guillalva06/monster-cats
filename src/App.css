@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 70px;
+  color: #0ccac4;
+
+}
