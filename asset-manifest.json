@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monster-cats/static/css/main.f7467060.chunk.css",
+    "main.js": "/monster-cats/static/js/main.8d531d77.chunk.js",
+    "main.js.map": "/monster-cats/static/js/main.8d531d77.chunk.js.map",
+    "runtime-main.js": "/monster-cats/static/js/runtime-main.318f707a.js",
+    "runtime-main.js.map": "/monster-cats/static/js/runtime-main.318f707a.js.map",
+    "static/js/2.7aaef059.chunk.js": "/monster-cats/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/monster-cats/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/monster-cats/index.html",
+    "precache-manifest.0e5abe0017d6ba3bcaa706dbb57405db.js": "/monster-cats/precache-manifest.0e5abe0017d6ba3bcaa706dbb57405db.js",
+    "service-worker.js": "/monster-cats/service-worker.js",
+    "static/css/main.f7467060.chunk.css.map": "/monster-cats/static/css/main.f7467060.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/monster-cats/static/js/2.7aaef059.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/monster-cats/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.318f707a.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.f7467060.chunk.css",
+    "static/js/main.8d531d77.chunk.js"
+  ]
+}
